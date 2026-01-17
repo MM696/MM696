@@ -18,30 +18,45 @@ building frontend systems that feel fast and intuitive.
 
 ## 🚀 Featured Projects
 
-### 📊 Admin Dashboard
-A responsive admin panel with reusable components and clean UI architecture.
+### 🚗 Car Rental Booking System
+A modern car rental booking app with a responsive, user-friendly interface for browsing, searching, and booking vehicles.
 
-- Tech: React, TypeScript, Tailwind CSS
-- Features: Dashboard layout, tables, filters, reusable UI components
-- Repo: https://github.com/MM696/admin-dashboard
-
----
-
-### 🛒 Vendor Product Management UI
-Frontend interface for managing vendor products with forms, modals, and tables.
-
-- Tech: React, Redux Toolkit, Tailwind CSS
-- Features: Create/Edit products, image previews, responsive tables
-- Repo: https://github.com/MM696/vendor-product-ui
+- **Tech (Frontend Focus):** React, TypeScript, Tailwind CSS, Vite
+- **Frontend Features:**
+  - Built responsive UI for car listings, search, and booking forms
+  - Implemented reusable React components for car cards, filters, and navigation
+  - Integrated user authentication and dynamic API data fetching
+  - Optimized UI performance and ensured mobile-first design
+- **Repo:** https://github.com/MM696/CarRental
+- **Live Demo:** https://carrental-w1sy.onrender.com/
 
 ---
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, skills, and experience.
+### 🤝 Cooperative Management System
+A web application for managing cooperative members, contributions, and administrative tasks with a clean, responsive interface.
 
-- Tech: React, Tailwind CSS
-- Features: Responsive sections, animations, clean layout
-- Repo: https://github.com/MM696/portfolio
+- **Tech (Frontend Focus):** Next.js 14, Tailwind CSS, React
+- **Frontend Features:**
+  - Built responsive dashboards for members and contributions
+  - Created reusable React components for tables, forms, and modals
+  - Implemented client-side interactivity and real-time updates with Supabase
+  - Converted designs into pixel-perfect, mobile-first layouts
+- **Repo:** https://github.com/MM696/cooperative_website
+- **Live Demo:** https://cooperative-website.vercel.app/
+
+---
+
+### 🏥 InspectCare
+A healthcare management platform helping users track symptoms, manage medications, book appointments, and request ambulance services.
+
+- **Tech (Frontend Focus):** React, Tailwind CSS, Redux Toolkit, Vite
+- **Frontend Features:**
+  - Built responsive, mobile-first UI for dashboards and forms
+  - Implemented reusable components for symptom and medication tracking
+  - Integrated API data for appointments and ambulance requests
+  - Optimized performance and load times for smooth UX
+- **Repo:** https://github.com/MM696/inspectcare
+- **Live Demo:** https://inspectcare-p1i7.onrender.com/
 
 ---
 
@@ -55,5 +70,5 @@ Personal portfolio showcasing projects, skills, and experience.
 
 ## 📫 Contact
 - GitHub: https://github.com/MM696
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: https://your-portfolio-link.com
+- LinkedIn: https://www.linkedin.com/in/macanthony-eze-6aba23345
+- Portfolio: https://mcanthonys-portfolio-u7ks.onrender.com/
