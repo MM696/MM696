@@ -1,70 +1,80 @@
 # Hi, I'm McAnthony 👋
 
-Frontend Developer focused on building clean, responsive, and user-friendly
-web interfaces using modern React tools and best practices.
+Full-Stack Developer experienced in building scalable, end-to-end web applications —
+from clean, responsive frontend interfaces to robust backend APIs and data layers.
 
-I enjoy turning designs into scalable, maintainable UI components and
-building frontend systems that feel fast and intuitive.
+I enjoy designing complete systems, translating product requirements into reliable
+frontend and backend solutions, and shipping fast, maintainable software.
 
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** React, TypeScript, NextJS, Vite, Tailwind CSS
-- **State & Data:** Redux Toolkit, REST APIs
-- **Styling & UI:** Tailwind CSS, Responsive Layouts
-- **Tools:** Git, GitHub, Figma, Axios
+
+### Frontend
+- React, TypeScript, Next.js, Vite
+- Tailwind CSS, Responsive & Mobile-First Design
+
+### Backend
+- Node.js, Express, Nest.js
+- REST APIs, Authentication & Authorization
+- PostgreSQL, Supabase
+
+### State, Data & Tools
+- Redux Toolkit, Axios
+- Git, GitHub, Figma
+- Deployment: Render, Vercel
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🚗 Car Rental Booking System
-A modern car rental booking app with a responsive, user-friendly interface for browsing, searching, and booking vehicles.
+A full-stack car rental platform for browsing, booking, and managing vehicle rentals.
 
-- **Tech (Frontend Focus):** React, TypeScript, Tailwind CSS, Vite
-- **Frontend Features:**
-  - Built responsive UI for car listings, search, and booking forms
-  - Implemented reusable React components for car cards, filters, and navigation
-  - Integrated user authentication and dynamic API data fetching
-  - Optimized UI performance and ensured mobile-first design
-- **Repo:** https://github.com/MM696/CarRental
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express, REST APIs
+- **Full-Stack Contributions:**
+  - Built responsive frontend for car listings, search, and booking flows
+  - Designed and integrated backend APIs for vehicles, bookings, and users
+  - Implemented authentication and protected routes
+  - Connected frontend to live backend services and handled API state
+- **Repo:** https://github.com/MM696/CarRental  
 - **Live Demo:** https://carrental-w1sy.onrender.com/
 
 ---
 
 ### 🤝 Cooperative Management System
-A web application for managing cooperative members, contributions, and administrative tasks with a clean, responsive interface.
+A full-stack system for managing cooperative members, contributions, and administration.
 
-- **Tech (Frontend Focus):** Next.js 14, Tailwind CSS, React
-- **Frontend Features:**
-  - Built responsive dashboards for members and contributions
-  - Created reusable React components for tables, forms, and modals
-  - Implemented client-side interactivity and real-time updates with Supabase
-  - Converted designs into pixel-perfect, mobile-first layouts
-- **Repo:** https://github.com/MM696/cooperative_website
+- **Tech Stack:** Next.js 14, Tailwind CSS, Supabase, PostgreSQL
+- **Full-Stack Contributions:**
+  - Built dashboards, tables, forms, and modals with Next.js
+  - Integrated Supabase for authentication, real-time data, and persistence
+  - Designed data models for members and contributions
+  - Implemented role-based access for admin and members
+- **Repo:** https://github.com/MM696/cooperative_website  
 - **Live Demo:** https://cooperative-website.vercel.app/
 
 ---
 
 ### 🏥 InspectCare
-A healthcare management platform helping users track symptoms, manage medications, book appointments, and request ambulance services.
+A healthcare management platform for symptom tracking, medication management, and appointment booking.
 
-- **Tech (Frontend Focus):** React, Tailwind CSS, Redux Toolkit, Vite
-- **Frontend Features:**
-  - Built responsive, mobile-first UI for dashboards and forms
-  - Implemented reusable components for symptom and medication tracking
-  - Integrated API data for appointments and ambulance requests
-  - Optimized performance and load times for smooth UX
-- **Repo:** https://github.com/MM696/inspectcare
+- **Tech Stack:** React, Redux Toolkit, Tailwind CSS, Node.js, REST APIs
+- **Full-Stack Contributions:**
+  - Built mobile-first dashboards and healthcare workflows
+  - Managed global state with Redux Toolkit
+  - Integrated backend APIs for appointments and emergency requests
+  - Optimized performance and API data handling
+- **Repo:** https://github.com/MM696/inspectcare  
 - **Live Demo:** https://inspectcare-p1i7.onrender.com/
 
 ---
 
 ## 💡 What I Do Well
-- Build reusable and maintainable React components
-- Create responsive layouts that work across devices
-- Translate designs (Figma) into pixel-accurate UIs
-- Manage frontend state and API integration cleanly
+- Build complete frontend-to-backend web applications
+- Design REST APIs and connect them to modern React frontends
+- Create scalable, reusable UI and backend modules
+- Translate designs and business requirements into working systems
 
 ---
 
