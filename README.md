@@ -1,4 +1,4 @@
-# Hi, I'm McAnthony 👋
+# Hi, I'm MacAnthony 👋
 
 Full-Stack Developer experienced in building scalable, end-to-end web applications —
 from clean, responsive frontend interfaces to robust backend APIs and data layers.
