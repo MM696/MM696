@@ -70,6 +70,34 @@ A healthcare management platform for symptom tracking, medication management, an
 
 ---
 
+### 💳 Transaction App (React Native – Expo)
+
+A FinTech-style transaction management application built with React Native (Expo), demonstrating scalable frontend architecture, structured state management, and production-ready UI patterns.
+
+- **Tech Stack:** React Native (Expo), TypeScript, Redux Toolkit, React Navigation (Native Stack)
+- **Features:**
+  -📄 Transaction List
+      Search by merchant
+      Category-based filtering
+      Pull-to-refresh support
+  -🔍 Transaction Details
+      Full transaction breakdown with clean UI presentation
+  -➕ Add Transaction
+      Form validation (amount, merchant, category, date)
+      Native-friendly inputs and date picker
+  -🌙 UI/UX
+      Dark theme optimized for readability
+      Clear financial indicators (debit vs credit)
+      Responsive layout across device sizes
+- **Repo:** https://github.com/MM696/Expense-Tracker-Mini-App
+- 
+## 📸 Screenshots
+
+![List Screen](./assets/list.png)
+![Detail Screen](./assets/detail.png)
+![Add Screen](./assets/add.png)
+![Add Screen](./assets/search.png)
+
 ## 💡 What I Do Well
 - Build complete frontend-to-backend web applications
 - Design REST APIs and connect them to modern React frontends
