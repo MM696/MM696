@@ -93,10 +93,10 @@ A FinTech-style transaction management application built with React Native (Expo
   
 ## 📸 Screenshots
 
-![List Screen](../assets/list.png)
-![Detail Screen](../assets/detail.png)
-![Add Screen](../assets/add.png)
-![Add Screen](../assets/search.png)
+![List Screen](./assets/list.png)
+![Detail Screen](./assets/detail.png)
+![Add Screen](./assets/add.png)
+![Search Screen](./assets/search.png)
 
 ## 💡 What I Do Well
 - Build complete frontend-to-backend web applications
