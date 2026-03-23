@@ -90,13 +90,13 @@ A FinTech-style transaction management application built with React Native (Expo
       Clear financial indicators (debit vs credit)
       Responsive layout across device sizes
 - **Repo:** https://github.com/MM696/Expense-Tracker-Mini-App
-- 
+  
 ## 📸 Screenshots
 
-![List Screen](./assets/list.png)
-![Detail Screen](./assets/detail.png)
-![Add Screen](./assets/add.png)
-![Add Screen](./assets/search.png)
+![List Screen](../assets/list.png)
+![Detail Screen](../assets/detail.png)
+![Add Screen](../assets/add.png)
+![Add Screen](../assets/search.png)
 
 ## 💡 What I Do Well
 - Build complete frontend-to-backend web applications
