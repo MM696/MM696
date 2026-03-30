@@ -1,6 +1,6 @@
 # Hi, I'm MacAnthony 👋
 
-**Full-Stack Engineer (Web & Mobile)** focused on building scalable, production-ready applications — from intuitive frontend experiences to robust backend systems.
+**Software Engineer (Web & Mobile)** focused on building scalable, production-ready applications — from intuitive frontend experiences to robust backend systems.
 
 I specialize in translating product requirements into clean, maintainable architectures, delivering high-performance user interfaces, and developing reliable APIs that power real-world applications.
 
@@ -47,6 +47,8 @@ A fintech-style backend application built with Laravel, handling secure payments
   * Designed audit logging to track all transaction status changes
   * Integrated Paystack payment gateway with webhook handling
 * **Repository:** https://github.com/MM696/My-Laravel-Project
+
+---
 
 ### 🚗 Car Rental Booking System
 
