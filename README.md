@@ -21,7 +21,7 @@ I specialize in translating product requirements into clean, maintainable archit
 
 ### **Backend**
 
-* Node.js, Express, NestJS
+* Laravel, Node.js, Express, NestJS
 * REST APIs, Authentication & Authorization
 * PostgreSQL, Supabase
 
@@ -34,6 +34,19 @@ I specialize in translating product requirements into clean, maintainable archit
 ---
 
 ## 🚀 Featured Projects
+
+## 🏫 School Payment & Transaction System (Laravel)
+
+A fintech-style backend application built with Laravel, handling secure payments, transaction tracking, and audit logging.
+
+* **Tech Stack:** Laravel, MySQL, Redis, Sanctum
+* **Key Contributions:**
+  * Developed secure RESTful APIs for payments and transaction management
+  * Implemented idempotent payment processing to prevent duplicate charges
+  * Built offline transaction handling to support network interruptions
+  * Designed audit logging to track all transaction status changes
+  * Integrated Paystack payment gateway with webhook handling
+* **Repository:** https://github.com/MM696/My-Laravel-Project
 
 ### 🚗 Car Rental Booking System
 
