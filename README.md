@@ -41,6 +41,7 @@ A fintech-style backend application built with Laravel, handling secure payments
 
 * **Tech Stack:** Laravel, MySQL, Redis, Sanctum
 * **Key Contributions:**
+
   * Developed secure RESTful APIs for payments and transaction management
   * Implemented idempotent payment processing to prevent duplicate charges
   * Built offline transaction handling to support network interruptions
@@ -130,6 +131,27 @@ A FinTech-style mobile application showcasing scalable frontend architecture and
 ![Detail Screen](https://raw.githubusercontent.com/MM696/Expense-Tracker-Mini-App/main/assets/detail.png)
 ![Add Screen](https://raw.githubusercontent.com/MM696/Expense-Tracker-Mini-App/main/assets/add.png)
 ![Search Screen](https://raw.githubusercontent.com/MM696/Expense-Tracker-Mini-App/main/assets/search.png)
+
+---
+
+### 📱 Expo Mobile App
+
+A cross-platform mobile application built with Expo, demonstrating scalable mobile architecture and efficient development workflows.
+
+* **Tech Stack:** React Native (Expo), TypeScript
+* **Key Features:**
+
+  * File-based routing for structured navigation
+  * Cross-platform support (Android, iOS, Web)
+  * Fast development workflow using Expo CLI
+  * Clean and modular project structure
+* **Getting Started:**
+
+  ```bash
+  npm install
+  npx expo start
+  ```
+* **Repository:** https://github.com/MM696/Mobile-app-using-Expo
 
 ---
 
