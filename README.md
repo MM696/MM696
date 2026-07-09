@@ -10,7 +10,7 @@ I specialize in translating product requirements into clean, maintainable archit
 
 ### **Frontend (Web)**
 
-* React, TypeScript, Next.js, Vite
+* React, TypeScript, Next.js, Vue, Vite
 * Tailwind CSS, Responsive & Mobile-First Design
 
 ### **Mobile**
@@ -21,9 +21,9 @@ I specialize in translating product requirements into clean, maintainable archit
 
 ### **Backend**
 
-* Laravel, Node.js, Express, NestJS
+* Laravel, Node.js, Express, NestJS, AdonisJS
 * REST APIs, Authentication & Authorization
-* PostgreSQL, Supabase
+* PostgreSQL, Supabase Redis, BullMQ, Docker
 
 ### **State, Data & Tools**
 
@@ -51,6 +51,25 @@ A fintech-style backend application built with Laravel, handling secure payments
 
 ---
 
+### 🔗 Ezrah Webhook Relay (Fintech)
+
+A production-oriented webhook relay system that ingests events via REST API, fans out to subscriber endpoints, and delivers signed HTTP payloads with retries, rate limiting, and observability.
+
+* **Tech Stack:** AdonisJS 7, TypeScript, Vue 3, Vite, PostgreSQL, Redis, BullMQ, Docker
+
+* **Key Contributions:**
+
+  * Built REST APIs for endpoint registration, event ingestion, delivery monitoring, and metrics
+  * Implemented asynchronous delivery with BullMQ workers and HTTP-aware retry backoff (5xx, 429, network errors)
+  * Secured webhook payloads with HMAC-SHA256 signatures and encrypted endpoint secrets at rest (AES-256-GCM)
+  * Designed at-least-once delivery semantics with `X-Ezrah-Delivery-Id` for subscriber deduplication
+  * Added per-endpoint rate limiting, structured logging (Pino), and a Vue dashboard for endpoints, events, and deliveries
+  * Containerized API, worker, PostgreSQL, and Redis with Docker Compose for production-like local runs
+  * Wrote unit and functional tests with CI via GitHub Actions
+
+* **Repository:** https://github.com/MM696/Fintech-Webhook-Relay
+
+---
 ### 🚗 Car Rental Booking System
 
 A full-stack platform for browsing, booking, and managing vehicle rentals.
