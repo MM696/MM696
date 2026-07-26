@@ -10,7 +10,7 @@ I specialize in translating product requirements into clean, maintainable archit
 
 ### **Frontend (Web)**
 
-* React, TypeScript, Next.js, Vue, Vite
+* React, TypeScript, Next.js, Vue, Angular, Vite
 * Tailwind CSS, Responsive & Mobile-First Design
 
 ### **Mobile**
@@ -106,6 +106,25 @@ A full-stack system for managing cooperative members, contributions, and adminis
 
 * **Live Demo:** https://cooperative-website.vercel.app/
 
+---
+
+### 💜 Heartcord Landing Page
+
+A cinematic marketing landing page for Heartcord, an AI developer workspace — full-bleed hero, animated network visuals, product sections, pricing, and FAQ.
+
+* **Tech Stack:** Angular 19, TypeScript, SCSS
+
+* **Key Contributions:**
+
+  * Built a component-based Angular landing page (hero, features, tools, pricing, FAQ)
+  * Designed a dark, high-impact visual system with custom SCSS and motion
+  * Integrated full-bleed imagery with scroll-triggered and looping CSS animations
+  * Structured reusable section components for a maintainable marketing site layout
+
+* **Repository:** https://github.com/MM696/HEARTCORD-landing-page
+
+* **Live Demo:** https://heartcord-landing-page.onrender.com/
+  
 ---
 
 ### 🏥 InspectCare
