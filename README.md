@@ -35,6 +35,24 @@ I specialize in translating product requirements into clean, maintainable archit
 
 ## 🚀 Featured Projects
 
+### 🐦 Chirp — Social Media Platform
+
+A Twitter-like full-stack monorepo with a user app, admin moderation dashboard, and gRPC API — auth, feeds, follows, bookmarks, notifications, and content moderation.
+
+* **Tech Stack:** Turborepo, pnpm, TanStack Start, React 19, TypeScript, gRPC, StyleX, SQLite (Drizzle), Vitest, Playwright, Biome, GitHub Actions
+
+* **Key Contributions:**
+
+  * Built a monorepo with separate user and admin clients plus a typed gRPC API
+  * Implemented secure auth (bcrypt password hashing, API-issued session JWTs)
+  * Optimized feed/bookmarks queries with batch loading to avoid N+1 database load
+  * Added unified API error handling, request tracing, and structured logging
+  * Set up CI (lint, typecheck, unit tests, affected builds) and pre-commit hooks
+
+* **Repository:** https://github.com/MM696/A-full-stack-social-platform
+
+---
+
 ## 🏫 School Payment & Transaction System (Laravel)
 
 A fintech-style backend application built with Laravel, handling secure payments, transaction tracking, and audit logging.
